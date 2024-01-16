@@ -70,6 +70,7 @@ class FilterModal extends HTMLElement {
                 p {
                 color: hsl(0, 0%, 100%);
                 font-family: 'Roboto', sans-serif;
+                
                 }
 
                 /* mdoal filtro VVVVVVVV*/
